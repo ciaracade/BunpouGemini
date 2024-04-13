@@ -2,6 +2,11 @@ MHacksxGoogle Hackathon Project
 ===============================
 Bear with me, I'm trying to make this work 😔
 
+# What am I doing 
+- [-] Creating Flask REST API for backend
+- [ ] Configuring API for Google Gemni
+- [ ] Start front end??
+- [ ] TBC
 
 
 Next.js Documentation
