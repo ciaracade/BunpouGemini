@@ -1,4 +1,4 @@
-![alt text](images/Bunpou-gemini-4-13-2024.gif)
+![Bunpou Gemini logo](images/Bunpou-gemini-4-13-2024.gif)
 
 
 Bear with me, I'm trying to make this work 😔
