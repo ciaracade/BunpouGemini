@@ -1,4 +1,4 @@
-![Bunpou Gemini Banner](https://imgur.com/a/4B9XNVY)
+![Bunpou Gemini Banner](https://i.imgur.com/eBvM6rn.png)
 
 
 Bear with me, I'm trying to make this work 😔
