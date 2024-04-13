@@ -1,5 +1,8 @@
-MHacksxGoogle Hackathon Project
+Bunpou Gemini
 ===============================
+Japanese Grammar Usage AI Chatbot
+---------------------------------
+
 Bear with me, I'm trying to make this work 😔
 
 # Project Goals 
