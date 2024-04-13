@@ -1,7 +1,5 @@
-Bunpou Gemini
-===============================
-Japanese Grammar Usage AI Chatbot
----------------------------------
+![alt text](images/Bunpou-gemini-4-13-2024.gif)
+
 
 Bear with me, I'm trying to make this work 😔
 
