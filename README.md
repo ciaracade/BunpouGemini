@@ -17,8 +17,8 @@ Bear with me, I'm trying to make this work 😔
     - Typescript ->  enhance JavaScript projects with static typing, enabling early error detection, improved code maintainability, and enhanced developer productivity through better tooling and code documentation.
 
 - Backend
-    - Python Flask -> quickly build lightweight, flexible, and scalable web applications with minimal boilerplate, while benefiting from a rich ecosystem of extensions, easy integration with databases and other technologies, and excellent support for RESTful APIs and microservices architectures.    
-    - Flask CORS ->  to enables Cross-Origin Resource Sharing (CORS) in Flask applications, allowing them to accept requests from web clients served from different domains, thus facilitating cross-origin communication, API integration, and development of modern web applications with frontend frameworks
+    - Python Flask -> RESTFul API support
+    - Flask CORS ->  to enables Cross-Origin Resource Sharing (CORS) in Flask applications, allowing them to accept requests from web clients served from different domains
 
 # Web app coming soon (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ![alt text](https://i.pinimg.com/originals/4a/ef/cc/4aefccc996d1d3477f5847c9b4c45be5.gif)
