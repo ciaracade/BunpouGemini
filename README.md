@@ -8,10 +8,12 @@ Bear with me, I'm trying to make this work 😔
 - [ ] Start front end??
 - [ ] TBC
 
+# Web app coming soon (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+![alt text](https://i.pinimg.com/originals/4a/ef/cc/4aefccc996d1d3477f5847c9b4c45be5.gif)
 
 Next.js Documentation
 =====================
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
 
 ## Getting Started
 
