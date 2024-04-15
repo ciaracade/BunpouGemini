@@ -1,9 +1,11 @@
 ![Bunpou Gemini Banner](https://i.imgur.com/eBvM6rn.png)
+文法Gemini is a full stack project using Google's Gemini AI for the MHacks x Google hackathon. It allows users to practice their Japanese Grammer in conversation by prompting the user to incorporate various grammar points while understanding and comprehending what the chat bot is outputting.
 
+After a user has responded, the chatbot grades the reponse, suggests other grammatically correct ways the user could've responded, and asks another question to continue the conversation.
 
-Bear with me, I'm trying to make this work 😔
+⚠️ Project in Development ⚠️
 
-# Project Goals 
+## Project Goals 
 - [x] Created Flask REST API for backend
 - [ ] Configured API for Google Gemni
 - [ ] Start front end??
